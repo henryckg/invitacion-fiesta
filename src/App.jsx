@@ -1,8 +1,7 @@
-function App() {
-
+function App () {
   return (
     <>
-      <h1>Invitación</h1>
+      <h1 className='text-2xl font-bold'>Invitación de Cumpleaños</h1>
     </>
   )
 }
